@@ -14,10 +14,18 @@ Here, you'll find a curated collection of datasets, algorithms, and code impleme
 
 ## The primary objectives of this repository are:
 
-Education: To empower individuals with the knowledge and tools necessary to comprehend the complexities of diabetes prediction through machine learning.
-Accessibility: To make state-of-the-art techniques and resources readily available to both beginners and experts, fostering collaboration and innovation in the field.
-Practical Implementation: To guide users through the practical application of machine learning concepts, facilitating hands-on experience and experimentation.
-Whether you're interested in exploring traditional machine learning algorithms like logistic regression and decision trees or diving into advanced techniques such as ensemble learning and deep neural networks, this repository offers a diverse array of resources to suit your needs.
+1. Education:
+ - To empower individuals with the knowledge and tools necessary to comprehend the complexities of diabetes prediction through machine learning.
+
+
+2. Accessibility:
+ - To make state-of-the-art techniques and resources readily available to both beginners and experts, fostering collaboration and innovation in the field.
+
+   
+4. Practical Implementation:
+ - To guide users through the practical application of machine learning concepts, facilitating hands-on experience and experimentation.
+ - Whether you're interested in exploring traditional machine learning algorithms like logistic regression and decision trees or diving into advanced techniques such as ensemble learning and deep neural 
+ - networks, this repository offers a diverse array of resources to suit your needs.
 
 Through collective contributions, feedback, and collaboration, we aim to continuously enhance and evolve this repository, ensuring its relevance and utility in the dynamic landscape of healthcare and machine learning.
    

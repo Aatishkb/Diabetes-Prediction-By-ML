@@ -7,9 +7,9 @@
 # Variables/Column/Attributes Description :-
 
 #### Pregnancies 
-    - It is kind of test.
-    - Gestational diabetes is a form of diabetes that occurs during pregnancy. 
-    - It poses risks like preeclampsia, preterm labor, and increased chances of type 2 diabetes for both the pregnant person and child.
+ - It is kind of test.
+ - Gestational diabetes is a form of diabetes that occurs during pregnancy. 
+ - It poses risks like preeclampsia, preterm labor, and increased chances of type 2 diabetes for both the pregnant person and child.
                   
 #### Glucose 
    - A blood glucose test measures the level of glucose (sugar) in your blood
